@@ -57,4 +57,3 @@ public class SpelerTesten {
 		Assertions.assertThrows(IllegalArgumentException.class,() -> {speler.setGebruikersnaam(gebruikersnaam);} );
 		
 	}
-
